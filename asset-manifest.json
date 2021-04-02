@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/M3rs/scorehammer/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/M3rs/scorehammer/static/js/main.08cd1f01.chunk.js",
+    "main.js.map": "/M3rs/scorehammer/static/js/main.08cd1f01.chunk.js.map",
+    "runtime-main.js": "/M3rs/scorehammer/static/js/runtime-main.088cd516.js",
+    "runtime-main.js.map": "/M3rs/scorehammer/static/js/runtime-main.088cd516.js.map",
+    "static/js/2.e8167101.chunk.js": "/M3rs/scorehammer/static/js/2.e8167101.chunk.js",
+    "static/js/2.e8167101.chunk.js.map": "/M3rs/scorehammer/static/js/2.e8167101.chunk.js.map",
+    "static/js/3.9716c189.chunk.js": "/M3rs/scorehammer/static/js/3.9716c189.chunk.js",
+    "static/js/3.9716c189.chunk.js.map": "/M3rs/scorehammer/static/js/3.9716c189.chunk.js.map",
+    "index.html": "/M3rs/scorehammer/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/M3rs/scorehammer/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e8167101.chunk.js.LICENSE.txt": "/M3rs/scorehammer/static/js/2.e8167101.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/M3rs/scorehammer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.088cd516.js",
+    "static/js/2.e8167101.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.08cd1f01.chunk.js"
+  ]
+}
