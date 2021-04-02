@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/scorehammer/static/css/main.1b11717d.chunk.css",
-    "main.js": "/scorehammer/static/js/main.14a09dad.chunk.js",
-    "main.js.map": "/scorehammer/static/js/main.14a09dad.chunk.js.map",
+    "main.css": "/scorehammer/static/css/main.3e5e642b.chunk.css",
+    "main.js": "/scorehammer/static/js/main.e60c07e9.chunk.js",
+    "main.js.map": "/scorehammer/static/js/main.e60c07e9.chunk.js.map",
     "runtime-main.js": "/scorehammer/static/js/runtime-main.c352d18b.js",
     "runtime-main.js.map": "/scorehammer/static/js/runtime-main.c352d18b.js.map",
     "static/js/2.1ec8fce2.chunk.js": "/scorehammer/static/js/2.1ec8fce2.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.85bbe308.chunk.js": "/scorehammer/static/js/3.85bbe308.chunk.js",
     "static/js/3.85bbe308.chunk.js.map": "/scorehammer/static/js/3.85bbe308.chunk.js.map",
     "index.html": "/scorehammer/index.html",
-    "static/css/main.1b11717d.chunk.css.map": "/scorehammer/static/css/main.1b11717d.chunk.css.map",
+    "static/css/main.3e5e642b.chunk.css.map": "/scorehammer/static/css/main.3e5e642b.chunk.css.map",
     "static/js/2.1ec8fce2.chunk.js.LICENSE.txt": "/scorehammer/static/js/2.1ec8fce2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/scorehammer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c352d18b.js",
     "static/js/2.1ec8fce2.chunk.js",
-    "static/css/main.1b11717d.chunk.css",
-    "static/js/main.14a09dad.chunk.js"
+    "static/css/main.3e5e642b.chunk.css",
+    "static/js/main.e60c07e9.chunk.js"
   ]
 }
