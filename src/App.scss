@@ -1,0 +1,53 @@
+
+div.App {
+    padding: 1rem;
+}
+
+div.playerSetup {
+
+    display: flex;
+    align-items: center;
+
+    div.formGroup {
+
+        display: flex;
+        padding: 10px 5px;
+
+        label {
+            padding: 10px;
+        }
+
+        input {
+        }
+    }
+}
+
+div.secondary {
+    display: flex;
+
+    .secondaryList {
+        padding: 1rem;
+
+        div {
+
+            padding-bottom: 1rem;
+            
+            display: flex;
+            justify-content: space-between;
+
+            div {
+                padding-right: 1rem;
+            }
+
+            input {
+
+            }
+        }
+    }
+}
+
+div.scoreTotal {
+    div {
+        font-size: 2rem;
+    }
+}
