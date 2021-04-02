@@ -7,12 +7,17 @@ export const CommandPoints = (props) => {
 
     return  (
         <div>
-            <div>{props.playerName}</div>
-            <input 
+            <label>{props.playerName}</label>
+            <div className="commandDisplay">{commandPoints}</div>
+            {/* <input 
                 value={commandPoints} 
                 onChange={e => setCommandPoints(e.target.value)} 
                 type="number"
-            />
+            /> */}
+            <div className="buttons">
+                <button class="addBtn" onClick={e => setCommandPoints(c => c + 1)}>+</button>
+                <button class="subBtn" onClick={e => setCommandPoints(c => c - 1)}>-</button>
+            </div>
         </div>
     );
 }

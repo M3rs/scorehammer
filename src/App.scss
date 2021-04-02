@@ -1,6 +1,42 @@
 
+$bg-color: #E0E0E2;
+$main-color: #2B4162;
+$main-accent: #0B6E4F;
+
+$sec-color: #721817;
+$third-color: #FA9F42;
+
 div.App {
-    padding: 1rem;
+
+    background-color: $bg-color;
+
+    header {
+        color: $bg-color;
+        background-color: $main-color;
+        padding: 1rem;
+        width: 100%;
+    }
+
+    main {
+
+        height: 100%;
+
+        padding: 1rem;
+
+        color: $main-color;
+
+        h2 {
+            color: $main-color;
+            border-bottom: 2px solid $sec-color;
+        }
+        h3 {
+            color: $main-color;
+        }
+
+        section {
+            margin: 1rem;
+        }
+    }
 }
 
 div.playerSetup {
@@ -18,14 +54,12 @@ div.playerSetup {
         label {
             padding: 10px;
         }
-
-        input {
-        }
     }
 }
 
 div.secondary {
     display: flex;
+    flex-wrap: wrap;
 
     .secondaryList {
         padding: 1rem;
@@ -40,10 +74,6 @@ div.secondary {
             div {
                 padding-right: 1rem;
             }
-
-            input {
-
-            }
         }
     }
 }
@@ -51,5 +81,41 @@ div.secondary {
 div.scoreTotal {
     div {
         font-size: 2rem;
+
+        color: $third-color;
+    }
+}
+
+section#commandPoints {
+    margin-bottom: 30px;
+    
+    div {
+        font-size: 2rem;
+        display: flex;
+        justify-items: flex-start;
+        align-items: center;
+
+
+        label {
+            flex: 1;
+        }
+
+        div {
+            flex: 1;
+        }
+
+        button {
+            flex: 1;
+            padding: 10px;
+        }
+        button.addBtn {
+            color: $bg-color;
+            background-color: $main-accent;
+        }
+        button.subBtn {
+            color: $bg-color;
+            background-color: $sec-color;
+
+        }
     }
 }
