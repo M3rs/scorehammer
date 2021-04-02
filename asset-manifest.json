@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scorehammer/static/css/main.e00ea648.chunk.css",
-    "main.js": "/scorehammer/static/js/main.ca2b24cd.chunk.js",
-    "main.js.map": "/scorehammer/static/js/main.ca2b24cd.chunk.js.map",
+    "main.js": "/scorehammer/static/js/main.b5397081.chunk.js",
+    "main.js.map": "/scorehammer/static/js/main.b5397081.chunk.js.map",
     "runtime-main.js": "/scorehammer/static/js/runtime-main.c352d18b.js",
     "runtime-main.js.map": "/scorehammer/static/js/runtime-main.c352d18b.js.map",
     "static/js/2.1ec8fce2.chunk.js": "/scorehammer/static/js/2.1ec8fce2.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c352d18b.js",
     "static/js/2.1ec8fce2.chunk.js",
     "static/css/main.e00ea648.chunk.css",
-    "static/js/main.ca2b24cd.chunk.js"
+    "static/js/main.b5397081.chunk.js"
   ]
 }
