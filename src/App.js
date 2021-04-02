@@ -1,14 +1,13 @@
-import logo from './logo.svg';
 import './App.scss';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { CommandPoints } from './CommandPoints';
 import { FactionPicker } from './FactionPicker';
 import { SecondaryPicker } from './SecondaryPicker';
 
 function App() {
 
-  const [p1, setP1] = useState('');
-  const [p2, setP2] = useState('');
+  const [p1, setP1] = useState('Player 1');
+  const [p2, setP2] = useState('Player 2');
 
   const [p1Faction, setP1Faction] = useState('');
   const [p2Faction, setP2Faction] = useState('');
@@ -149,7 +148,7 @@ function App() {
       </main>
 
       <footer>
-        
+
       </footer>
 
     </div>
