@@ -43,8 +43,8 @@ function App() {
       <div>
         <h2>Players</h2>
 
+        <h3>Player 1</h3>
         <div className="playerSetup">
-          <h3>Player 1</h3>
           <div className="formGroup">
             <label>Name</label>
             <input value={p1} onChange={e => setP1(e.target.value)} />
@@ -59,8 +59,8 @@ function App() {
           </div>
         </div>
 
+        <h3>Player 2</h3>
         <div className="playerSetup">
-          <h3>Player 2</h3>
           <div className="formGroup">
             <label>Name</label>
             <input value={p2} onChange={e => setP2(e.target.value)} />
@@ -123,7 +123,7 @@ function App() {
           })}
           </div>
         </div>
-        
+
         <h3>Total</h3>
         <div className="scoreTotal">
           <div>{p1} {p1Faction}: {p1Total}</div>

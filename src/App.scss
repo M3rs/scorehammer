@@ -7,11 +7,13 @@ div.playerSetup {
 
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
 
     div.formGroup {
 
         display: flex;
         padding: 10px 5px;
+        justify-content: space-between;
 
         label {
             padding: 10px;
